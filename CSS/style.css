@@ -29,7 +29,7 @@ ul{
 }
 article{
     padding-left: 10px;
-    font-size: 8px;
+    font-size: 20px;
 }
 h4{
     padding-bottom: 8px;
@@ -45,7 +45,7 @@ li{
     border-radius: 10px;
 }
 .conteiner{
-    max-width: 60%;
+    max-width: 40%;
     margin: 0 auto;
     background-color: white;
     border-radius: 5px;
@@ -81,7 +81,7 @@ li{
 .tag{
     background-color: rgb(91, 173, 255);
     margin-left: 5px;
-    font-size: 6px;
+    font-size: 10px;
     font-weight: bold;
     padding: 2px;
     border-radius: 5px;
@@ -100,7 +100,7 @@ li{
     color: white;
     font-weight: bold;
     border-radius: 5px;
-    font-size: small;
+    font-size: medium;
 }
 #button2{
     background-color: rgb(255, 255, 255);
@@ -108,7 +108,7 @@ li{
     color: rgb(159, 159, 159);
     font-weight: bold;
     border-radius: 5px;
-    font-size: small;
+    font-size: medium;
     text-align: center;
 }
 #purple{
@@ -124,5 +124,5 @@ li{
     background-color: rgb(238, 132, 215);
 }   
 #green{
-    background-color: rgb(117, 248, 132);
+    background-color: rgb(78, 175, 89);
 }
