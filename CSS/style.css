@@ -1,0 +1,39 @@
+/*CSS reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*Generics*/
+body{
+    background-color: rgb(158, 158, 158);
+    padding: 10px;
+}
+h1{
+    display: inline;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    height: 30px;
+    vertical-align: middle;
+}
+/*Utilties*/
+.title{
+    background-color: rgb(255, 255, 255);
+    height: 55px;
+    width: 180px;
+    border-radius: 10px;
+}
+.conteiner{
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+}
+/*Header*/
+#blockimg{
+    vertical-align: middle;
+    width: 30px;
+    height: 32px;
+}
+
+    
+
