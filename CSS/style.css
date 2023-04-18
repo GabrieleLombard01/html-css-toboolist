@@ -27,12 +27,31 @@ h1{
     width: 60%;
     margin: 0 auto;
     background-color: white;
+    display: inline;
 }
 /*Header*/
 #blockimg{
     vertical-align: middle;
     width: 30px;
     height: 32px;
+}
+/*Section*/
+#button1{
+    background-color: rgb(61, 172, 252);
+    border: solid rgb(49, 141, 207);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: small;
+}
+#button2{
+    background-color: rgb(255, 255, 255);
+    border: solid rgb(121, 121, 121);
+    color: rgb(159, 159, 159);
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: small;
+    text-align: center;
 }
 
     
