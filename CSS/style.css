@@ -19,11 +19,13 @@ h1{
 form{
     text-align: center;
     padding-bottom: 30px;
+    padding-top: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 ul{
     list-style-position: inside;
     font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
 }
 article{
     padding-left: 10px;
@@ -49,6 +51,26 @@ li{
     border-radius: 5px;
     font-family: Arial, Helvetica, sans-serif;
 
+}
+.green{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    border: solid green;
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+.red{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    border: solid red;
+    text-align: center;
+    color: red;
+    font-weight: bold;
 }
 /*Header*/
 #blockimg{
