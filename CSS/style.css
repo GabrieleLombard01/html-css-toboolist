@@ -16,6 +16,16 @@ h1{
     height: 30px;
     vertical-align: middle;
 }
+form{
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    list-style-position: inside;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
 /*Utilties*/
 .title{
     background-color: rgb(158, 158, 158);
@@ -24,10 +34,10 @@ h1{
     border-radius: 10px;
 }
 .conteiner{
-    width: 60%;
+    max-width: 60%;
     margin: 0 auto;
     background-color: white;
-    display: inline;
+    border-radius: 5px;
 }
 /*Header*/
 #blockimg{
